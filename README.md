@@ -1,5 +1,4 @@
 # qapng_Skycoder42
-a older fork from https://github.com/Skycoder42/qapng
 
 This is a private fork from older ApngProject
 
@@ -10,4 +9,5 @@ So if you want the most well-developed implementation, we recommend this impleme
 - https://github.com/Skycoder42/qapng
 
 
+This is a plugin of [QuickViewer](https://github.com/kanryu/quickviewer).
 
